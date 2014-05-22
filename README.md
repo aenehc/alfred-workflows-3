@@ -17,3 +17,9 @@ Look up words in [Antidote](http://www.antidote.info)
 Use keyword "googl" to shorten URLs
 
 ➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/googl/googl.alfredworkflow)
+
+## Network
+
+Use keyword "network" to get local and router IPs
+
+➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/network/network.alfredworkflow)
