@@ -29,3 +29,9 @@ Use keyword "network" to get local and router IPs
 Use keyword "atom" to open projects (~/Code) in Atom
 
 ➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/atom/atom.alfredworkflow)
+
+## Wi-Fi
+
+Use keyword "wifi" to turn On/Off Wi-Fi
+
+➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/wifi/wifi.alfredworkflow)
