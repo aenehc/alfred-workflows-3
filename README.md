@@ -23,3 +23,9 @@ Use keyword "googl" to shorten URLs
 Use keyword "network" to get local and router IPs
 
 ➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/network/network.alfredworkflow)
+
+## Atom
+
+Use keyword "atom" to open projects (~/Code) in Atom
+
+➞ [Download](https://github.com/superhugo/alfred-workflows/raw/master/atom/atom.alfredworkflow)
